@@ -5,3 +5,5 @@ let age = 18;
 let type = age > 17 ? 'Eligible' : 'Not Eligible';
 
 console.log(type);
+
+// 
